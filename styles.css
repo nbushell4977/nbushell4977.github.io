@@ -1,9 +1,9 @@
-body {background: blue;
+body {
       background-image: bushidobackground.jpg;
   }
 
 .text {text-align: center;
-	   font: helvetica;
+	   font: caligraphy;
 	   
 	   border-color: red;
        padding: 50px 50px 50px 50px; 
@@ -12,4 +12,6 @@ body {background: blue;
 .samurai2 {margin: 10%;
            border-color: red; 
            padding-top: 50px;
-                 }   
+                 }  
+
+ a:visited {color: red;} 
