@@ -1,7 +1,11 @@
 body {background: blue;}
 
-.text {text-align: center;}
+.text {text-align: center;
+        padding: 50px 50px 50px 50px}
 
-.samurai2 {margin: 10;
+.samurai2 {margin-top: 100px;
+	       margin-bottom: 100px;
+	       margin-left: 100px;
+	       margin-right: 100px;
 	       border: 30;
 	       padding: 20}
