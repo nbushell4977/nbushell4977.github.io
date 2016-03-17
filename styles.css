@@ -1,8 +1,8 @@
 body {background: blue;}
 
 .text {text-align: center;
-        padding-left: 50px; 
-        padding-right: 50px;}
+        padding: 50px; 
+        }
 
 .samurai2 {img-margin-top: 100px;
 	       img-margin-bottom: 100px;
