@@ -1,11 +1,12 @@
 body {background: blue;}
 
 .text {text-align: center;
-        padding: 50px 50px 50px 50px}
+        padding-left: 50px; 
+        padding-right: 50px;}
 
-.samurai2 {margin-top: 100px;
-	       margin-bottom: 100px;
-	       margin-left: 100px;
-	       margin-right: 100px;
-	       border: 30;
-	       padding: 20}
+.samurai2 {img-margin-top: 100px;
+	       img-margin-bottom: 100px;
+	       img-margin-left: 100px;
+	       img-margin-right: 100px;
+	       img-border: 30;
+	       }
