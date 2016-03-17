@@ -1,5 +1,6 @@
 body {background: blue;
-      background-image: bushidobackground.jpeg}
+      background-image: bushidobackground.jpeg;
+  }
 
 .text {text-align: center;
 	   font: helvetica;
@@ -9,5 +10,6 @@ body {background: blue;
         }
 
 .samurai2 {margin: 10%;
-            padding-top: 50px;
+           border-color: red; 
+           padding-top: 50px;
                  }   
