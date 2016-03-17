@@ -1,3 +1,7 @@
 body {background: blue;}
 
 .text {text-align: center;}
+
+.samurai2 {margin: 10;
+	       border: 30;
+	       padding: 20}
