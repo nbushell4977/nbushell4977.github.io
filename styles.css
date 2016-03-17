@@ -1,5 +1,5 @@
 body {
-      background-image: bushidobackground.jpg;
+      background-image: url("bushidobackground.jpg");
   }
 
 .text {text-align: center;
