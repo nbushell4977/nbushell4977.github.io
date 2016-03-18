@@ -3,13 +3,13 @@ body {
   }
 
 .text {text-align: center;
-	   font: caligraphy;
+	   font-style: oblique;
 	   border-style: solid;
 	   border-color: red;
-       padding: 50px 50px 50px 50px; 
+     padding: 50px 50px 50px 50px; 
         }
 
-.samurai2 {margin: 10%;
+img.samurai2 {margin: 10%;
            border-style: solid;
            border: 50px;
            border-color: red; 
