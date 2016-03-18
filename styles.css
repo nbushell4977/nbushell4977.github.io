@@ -1,16 +1,17 @@
-body {background: blue;
+body {
       background-image: url("bushidobackground.jpg");
   }
 
 .text {text-align: center;
 	   font: caligraphy;
-	   
+	   border-style: solid;
 	   border-color: red;
        padding: 50px 50px 50px 50px; 
         }
 
 .samurai2 {margin: 10%;
-          border: 50px;
+           border-style: solid;
+           border: 50px;
            border-color: red; 
            padding-top: 50px;
                  }  
