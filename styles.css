@@ -14,6 +14,8 @@ body {
            padding-top: 50px;
                  }  
 
-#table {font-color: blue;}
+#table {background: blue;
+        padding: 50px 50px 50px 50px;   
+            }
 
 a:visited {color: red;} 
