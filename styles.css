@@ -9,11 +9,11 @@ body {
      padding: 50px 50px 50px 50px; 
         }
 
-img.samurai2 {margin: 10%;
-           border-style: solid;
+.samurai2 {margin: 10%; 
            border: 50px;
-           border-color: red; 
            padding-top: 50px;
                  }  
 
- a:visited {color: red;} 
+#table {background: blue;}
+
+a:visited {color: red;} 
