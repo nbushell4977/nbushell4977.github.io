@@ -23,7 +23,7 @@ body {
         padding-bottom: 50px;   
             }
 .virtues {background: blue;
-          text-align: center;
+          margin: auto;
           }
 
 a:visited {color: red;} 
