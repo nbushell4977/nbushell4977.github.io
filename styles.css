@@ -1,41 +1,53 @@
 body {
-      background-image: url("bushidobackground.jpg");
-  }
-
-.text {text-align: center;
-      background-color: white;
-	   font-style: oblique;
-	   border-style: solid;
-	   border-color: blue;
-     padding: 50px 50px 50px 50px; 
-        }
-
-.samurai2 {margin: 10%; 
-           border: 50px;
-           padding-top: 50px;
-                 }  
-
-#table {background: blue;
-        width: 500px;
-        padding-left: 50px; 
-        padding-right: 50px;
-        padding-top: 50px;
-        padding-bottom: 50px;   
-            }
-.virtues {background: blue;
-          margin: auto;
-          }
-
-a:visited {color: red;} 
-
-@media screen and (max-width: 500px) {
-  body {
-    background-color: red;
-  }
+	background-color: blue;
+	margin-right: 150px;
+	margin-left: 150px;
 }
 
-@media screen and (max-width: 720px){
-  body {
-    font-size: 75%;   
-  }
+div.fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 10px;
+    border: 10px solid black;
+}
+
+#container {
+  border: 2px solid black; 
+  border-top: 10px solid grey;
+  background: #ddd;
+  width: 140px;
+  margin: 10px;
+  padding: 20px;
+  font: Helvetica;
+  font-size: 14px;
+  background: #eee;
+  float: left;
+  display: in-line block;
+  vertical-align: top
+}
+
+
+
+
+.header {
+	font-style: oblique;
+	background-color: red;
+	
+}
+
+.para {
+	font-style: georgia;
+}
+
+#border {
+	border-style: solid;
+	   border-color: yellow;
+}
+
+.para_border {
+	border-style: solid;
+	border-color: green;
+	font-style: georgia
+
 }
