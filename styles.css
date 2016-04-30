@@ -22,7 +22,7 @@ div.fixed {
   font: Helvetica;
   font-size: 14px;
   background: #eee;
-  float: left;
+  float: right;
   display: in-line block;
   vertical-align: top
 }
