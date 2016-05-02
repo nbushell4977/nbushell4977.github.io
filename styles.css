@@ -31,7 +31,8 @@ div.fixed {
 
 
 .header {
-	font-style: oblique;
+	font-family: georgia;
+  font-style: oblique;
 	background-color: red;
 	
 }
@@ -48,6 +49,6 @@ div.fixed {
 .para_border {
 	border-style: solid;
 	border-color: green;
-	font-style: georgia
+	font-family: "Times New Roman";
 
 }
