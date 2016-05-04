@@ -46,7 +46,9 @@ body {
 
 #border {
 	border-style: solid;
-	   border-color: yellow;
+	border-color: yellow;
+  font-family: georgia;
+  font-style: oblique;
 }
 
 .para_border {
