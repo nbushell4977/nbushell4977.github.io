@@ -34,12 +34,14 @@ body {
 
 .header {
 	font-family: georgia;
+  font-style: italic;
 	background-color: red;
 	
 }
 
 .para {
 	font-family: georgia;
+  font-style: oblique;
 }
 
 #border {
